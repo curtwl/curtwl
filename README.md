@@ -1,6 +1,6 @@
 ## Hi, I'm Curt!
 
-Current interests include all things ML and Deep Learning, including applications to image and audio processing, with an eye towards applications to Edge AI and robotics. Also 
+Current interests include all things ML and Deep Learning, including applications to image and audio processing, with an eye towards applications for Edge AI and robotics.
 
 Also enjoy doing backend webdev. Currently working on [chingu.io's Dashboard application](https://github.com/chingu-x/chingu-dashboard-be) that will serve as a hub for users to collaborate on webdev projects.
 
